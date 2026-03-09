@@ -1,0 +1,1 @@
+{"name": "app-name","version": "1.0.0","description": "A brief description of the project.","main": "index.js","dependencies": {"express": "^4.17.1","mongoose": "^5.10.9"},"devDependencies": {},"scripts": {"start": "node index.js"},"author": "Your Name","license": "ISC"}
